@@ -1,3 +1,9 @@
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
 # Built application files
 *.apk
 *.ap_
@@ -39,6 +45,17 @@ captures/
 .idea/gradle.xml
 .idea/dictionaries
 .idea/libraries
+.idea
+/*/local.properties
+/*/out
+/*/*/build
+build
+/*/*/production
+*.iml
+*.iws
+*.ipr
+*~
+*.swp
 
 # Keystore files
 *.jks
